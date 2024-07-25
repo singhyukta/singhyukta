@@ -6,7 +6,7 @@ I'm always excited about exploring new technologies and expanding my knowledge t
 
 - 🔭 I’m currently a **B.Tech(IT)** Forth Year Student.
 
-- 🌱 I’m currently learning **JavaScript and Angular**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **HTML,CSS, JavaScript, Bootstrap, Java, MySQL**
 
